@@ -1,2 +1,2 @@
 # hello-world
-First Project 
+Testing my first project with git
